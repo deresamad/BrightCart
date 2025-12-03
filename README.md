@@ -12,9 +12,6 @@ The outcome is a clear data-driven strategy to eliminate guesswork and focus res
 
 The analysis covered a comprehensive dataset with the following key metrics:
 
-Metric
-
-Value
 
 Total Sessions  1,079
 
