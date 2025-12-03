@@ -56,7 +56,7 @@ E. Geographic Performance ( Regional CR)
 
  The USA leads in volume and performance (45% CR), but Canada (38% CR) and the UK (35% CR) show sufficient conversion quality to justify tailored, localized investment to boost volume.
 
-F. User Segmentation (Chart 6: New vs. Returning)
+F. User Segmentation (New vs. Returning)
 
  Returning Users convert at 55% (2.75x higher) compared to New Users at 20%. Customer retention is the most profitable growth lever.
 
