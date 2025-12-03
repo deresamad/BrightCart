@@ -5,7 +5,7 @@ This repository contains the data analysis and strategic recommendations derived
 
 The outcome is a clear data-driven strategy to eliminate guesswork and focus resources on proven areas of high return.
 
-
+![](PALMORIA_DASHBOARD.png)
 ## 2. Key Performance Indicators
 
 The analysis covered a comprehensive dataset with the following key metrics:
