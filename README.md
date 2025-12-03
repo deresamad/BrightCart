@@ -84,6 +84,8 @@ Fix Checkout Friction (Reduce 35% Leak): Immediately test solutions like transpa
 Rework Social Strategy (Quality over Quantity): Pivot the Social Media budget away from direct-sale objectives (25% CR) toward upper-funnel goals like brand awareness and high-quality lead generation, using stronger re-targeting funnels for social clicks.
 
 **Dataset and Visualizations:** [Access Here](https://1drv.ms/x/c/d7d19cc72b847ac2/IQAg_BQMatTxRp4XW_Bb16xZAcLq1WnOduBFE58efZ_GbEg)
-6. Technologies Used
+
+
+## 6. Technologies Used
 
 Data Analysis: Microsoft Excel (cleaning, transformation, aggregation)
